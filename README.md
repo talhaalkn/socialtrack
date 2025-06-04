@@ -11,8 +11,5 @@
 ---
 
 ## ✨ Proje Hakkında
-SocialTrack, kullanıcı adlarının sosyal medya üzerindeki varlıklarını tarayan bir OSINT aracıdır...dadawdawdawdawfawfawdawdawdawdawdawdawdawdaw
-wdawdawdwadcffcfcf
-cfcfcfc
-cfcfc
+SocialTrack, kullanıcı adlarının sosyal medya üzerindeki varlıklarını tarayan bir OSINT aracıdır...
 
